@@ -2,12 +2,12 @@
 
 #### [access the wiki](https://github.com/sambacha/evm-wiki/wiki)
 
-#### overview 
+#### overview
 
 - evm
 - opcodes
 - asm
 
-#### license 
+#### license
 
 CC0-1.0
